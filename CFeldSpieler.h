@@ -1,6 +1,5 @@
 #pragma once
 #include "CSpieler.h"
-#include <iostream>
 using namespace std;
 
 class CFeldSpieler : CSpieler {
@@ -14,6 +13,6 @@ private:
 	unsigned int schussGenauigkeit;
 
 public:
-	void print() {};
+	void print();
 	CFeldSpieler(string name, string vorname, unsigned int alter, e_position position, unsigned int nummer);
 };

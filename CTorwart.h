@@ -1,6 +1,5 @@
 #pragma once
 #include "CSpieler.h"
-#include <iostream>
 using namespace std;
 
 class CTorwart : CSpieler {
