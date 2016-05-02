@@ -2,7 +2,7 @@
 #include "CPerson.h"
 using namespace std;
 
-class CTrainer : CPerson {
+class CTrainer : public CPerson {
 
 private:
 	unsigned int lizenzstufe;

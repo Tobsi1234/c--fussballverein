@@ -2,7 +2,7 @@
 #include "CPerson.h"
 using namespace std;
 
-class CFuehrung : CPerson {
+class CFuehrung : public CPerson {
 
 public:
 	enum e_aufgabe { praesident, vorstand, sportdirektor };
