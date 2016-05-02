@@ -6,7 +6,7 @@ using namespace std;
 class CSpieler : CPerson {
 	public:
 		enum e_position {
-			torwart, abwehr, mitterlfeld, sturm
+			torwart, abwehr, mittelfeld, sturm
 		};
 		void print() { cout << "Position: " << position << "Nummer: " << nummer << endl; };
 

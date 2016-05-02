@@ -4,10 +4,11 @@ using namespace std;
 
 class CFuehrung : CPerson {
 
-private:
-	enum e_aufgabe {praesident, vorstand, sportdirektor};
-
 public:
+	enum e_aufgabe { praesident, vorstand, sportdirektor };
 	void print();
-	CFuehrung();
+	CFuehrung(string name, string vorname, unsigned int alter, e_aufgabe aufgabe);
+
+private:
+	e_aufgabe aufgabe;
 };

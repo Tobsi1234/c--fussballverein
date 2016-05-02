@@ -1,5 +1,9 @@
 #pragma once
 #include "CPerson.h"
+#include "CTorwart.h"
+#include "CFeldspieler.h"
+#include "CTrainer.h"
+
 const unsigned int maxAnzKader = 50;
 
 class CKader {
