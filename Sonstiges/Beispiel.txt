@@ -1,0 +1,246 @@
+---------------------------------------------------
+Name:  Lehmann, Jens
+Alter: 38
+Position: Torwart Nummer: 1
+Kommunikation mit der Abwehr: 0
+Qualitaet auf der Linie:      0
+Beherrschung des Strafraums:  0
+---------------------------------------------------
+Name:  Stolz, Alexander
+Alter: 25
+Position: Torwart Nummer: 12
+Kommunikation mit der Abwehr: 0
+Qualitaet auf der Linie:      0
+Beherrschung des Strafraums:  0
+---------------------------------------------------
+Name:  Ulreich, Swen
+Alter: 20
+Position: Torwart Nummer: 24
+Kommunikation mit der Abwehr: 0
+Qualitaet auf der Linie:      0
+Beherrschung des Strafraums:  0
+---------------------------------------------------
+Name:  Boka, Arthur
+Alter: 25
+Position: Abwehr Nummer: 15
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Boulahrouz, Khalid
+Alter: 26
+Position: Abwehr Nummer: 4
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Delpierre, Matthieu
+Alter: 27
+Position: Abwehr Nummer: 17
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Magnin, Ludewic
+Alter: 29
+Position: Abwehr Nummer: 21
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Osorio, Ricardo
+Alter: 28
+Position: Abwehr Nummer: 3
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Pischorn, Marco
+Alter: 22
+Position: Abwehr Nummer: 42
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Tasci, Serdar
+Alter: 21
+Position: Abwehr Nummer: 5
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Bastuerk, Yildiray
+Alter: 30
+Position: Mittelfeld Nummer: 10
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Elson
+Alter: 27
+Position: Mittelfeld Nummer: 25
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Hilbert, Roberto
+Alter: 24
+Position: Mittelfeld Nummer: 19
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Hitzlsberger, Thomas
+Alter: 26
+Position: Mittelfeld Nummer: 11
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Khedira, Sami
+Alter: 21
+Position: Mittelfeld Nummer: 28
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Lanig, Martin
+Alter: 24
+Position: Mittelfeld Nummer: 7
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Mandjeck, Georgis
+Alter: 19
+Position: Mittelfeld Nummer: 29
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Pardo, Pavel
+Alter: 32
+Position: Mittelfeld Nummer: 13
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Rudy, Sebastian
+Alter: 18
+Position: Mittelfeld Nummer: 16
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Simak, Jan
+Alter: 30
+Position: Mittelfeld Nummer: 8
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Traesch, Christian
+Alter: 21
+Position: Mittelfeld Nummer: 35
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Cacau
+Alter: 27
+Position: Sturm Nummer: 18
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Fischer, Manuel
+Alter: 19
+Position: Sturm Nummer: 23
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Gomez, Mario
+Alter: 23
+Position: Sturm Nummer: 33
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Ljuboja, Danijel
+Alter: 30
+Position: Sturm Nummer: 38
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Marica, Ciprian
+Alter: 23
+Position: Sturm Nummer: 9
+Starker Fuss: nicht bekannt.
+Ballbeherrschung:  0
+Schussgenauigkeit: 0
+Schusskraft:       0
+Verteidigung:      0
+---------------------------------------------------
+Name:  Veh, Armin
+Alter: 47
+Lizenzstufe: 0
+---------------------------------------------------
+Name:  Staudt, Erwin
+Alter: 60
+Aufgabe: Praesident
+---------------------------------------------------
+Name:  Ruf, Ulrich
+Alter: 52
+Aufgabe: Vorstand
+---------------------------------------------------
+Name:  Heldt, Horst
+Alter: 38
+Aufgabe: Sportdirektor
+---------------------------------------------------
+DrÅcken Sie eine beliebige Taste . . . 
