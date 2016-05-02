@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-class CSpieler : CPerson {
+class CSpieler : public CPerson {
 	public:
 		enum e_position {
 			torwart, abwehr, mittelfeld, sturm

@@ -9,3 +9,8 @@ bool CVerein::add(const CKader &)
 {
 	return false;
 }
+
+void CVerein::print()
+{
+}
+

@@ -2,10 +2,10 @@
 #include "CSpieler.h"
 using namespace std;
 
-class CTorwart : CSpieler {
+class CTorwart : public CSpieler {
 private:
 	unsigned int strafRaumBeharrschung;
-	unsigned int linienQualität;
+	unsigned int linienQualitaet;
 	unsigned int abwehrKommunikation;
 
 public:

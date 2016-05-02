@@ -2,7 +2,7 @@
 #include "CSpieler.h"
 using namespace std;
 
-class CFeldSpieler : CSpieler {
+class CFeldSpieler : public CSpieler {
 private:
 	enum e_starkerFuss {
 		unKnown, links, rechts, gleich
