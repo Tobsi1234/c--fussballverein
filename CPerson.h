@@ -6,8 +6,7 @@ class CPerson
 {
 
 public:
-	void print();
-
+	virtual void print() = 0;
 protected:
 	string name;
 	string vorname;

@@ -14,6 +14,6 @@ private:
 
 public:
 	CKader();
-	bool add(const CPerson &);
+	bool add(const CPerson & person);
 	void print();
 };

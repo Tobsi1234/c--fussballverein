@@ -12,7 +12,8 @@ private:
 	CFuehrung* fuehrungMitglieder[maxAnzFuehrung];
 
 public:
-	bool add(const CFuehrung &);
-	bool add(const CKader &);
+	CVerein();
+	bool add(const CFuehrung & cf);
+	bool add(const CKader & ck);
 	void print();
 };

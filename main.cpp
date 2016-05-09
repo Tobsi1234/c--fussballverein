@@ -5,7 +5,7 @@
 
 int main() {
 
-	CPerson * pPersonenListe[maxAnzKader + maxAnzFuehrung];
+	/*CPerson * pPersonenListe[maxAnzKader + maxAnzFuehrung];
 	for (unsigned int i=0; i<maxAnzKader + maxAnzFuehrung; i++)
 		pPersonenListe[i] = 0x0;
 	
@@ -114,7 +114,7 @@ int main() {
 
 	vfbStuttgart->print();
 
-	system("pause");
+	//system("pause");
 
 	// Abbau des allokierten Speichers
 
@@ -124,6 +124,13 @@ int main() {
 
 	delete vfbKader;
 	delete vfbStuttgart;
+	*/
+	CFuehrung* fuehrung = new CFuehrung("RobinDutt", "d", 3, CFuehrung::sportdirektor);
+	CVerein* verein = new CVerein();
+	//fuehrung->print();
+	verein->add(*fuehrung);
+	verein->print();
+	
 
 	return 0;
 }
